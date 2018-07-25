@@ -1,1 +1,0 @@
-''' Dies ist eine Testdatei im Rahmen des Projektes Erste Schritte mit GIT. '''
