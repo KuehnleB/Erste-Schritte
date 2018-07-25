@@ -1,1 +1,3 @@
-''' Test-Datei für GIT-Projekt '''
+﻿''' Test-Datei für GIT-Projekt '''
+
+18-07-25 Version 2
